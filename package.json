@@ -1,0 +1,12 @@
+{
+  "name": "jade-sass-coffee-grunt-project",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "~0.1.9",
+    "grunt-contrib-coffee": "^0.13.0",
+    "grunt-contrib-jade": "^0.15.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^1.0.0"
+  }
+}
