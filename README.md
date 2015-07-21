@@ -8,4 +8,4 @@ grunt serve
 
 Start developing with Jade, Sass and Coffeescript using Grunt.
 
-Use 'grunt build' for builds. This gives you the separation of development tasks (`serve`) and build tasks.
+Use `grunt build` for builds. This gives you the separation of development tasks (`serve`) and build tasks.
